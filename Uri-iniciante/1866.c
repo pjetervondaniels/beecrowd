@@ -1,0 +1,34 @@
+
+#include <stdio.h>
+
+/*	
+*	-----------------------------------
+*	|		Pedro Daniel Jardim       |
+*	| 			  UFV				  | 
+*	|		  29/02/2020			  |
+*   ----------------------------------
+*
+*/
+
+int main ()
+{
+
+	unsigned short int n, indice, soma = 0, numero;
+
+	scanf("%hd", &n);
+	while (n != 0)
+	{
+		soma = 0;
+
+		scanf("%hd", &numero);
+
+		for (indice = 0; indice < numero; indice++)
+			if (indice % 2 == 0)
+				soma++;
+			else
+				soma--;
+		n--;
+		printf("%d\n", soma);
+
+	}
+}

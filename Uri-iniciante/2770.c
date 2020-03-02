@@ -1,0 +1,36 @@
+
+
+#include <stdio.h>
+#include <stdbool.h>
+
+/*	
+*	-----------------------------------
+*	|		Pedro Daniel Jardim       |
+*	| 			  UFV				  | 
+*	|		  28/02/2020			  |
+*   ----------------------------------
+*
+*/
+
+void main ()
+{
+
+	unsigned alturaPlaca, larguraPlaca, qtsPedidos;
+	unsigned alturaPci, larguraPci;
+	unsigned areaPlaca, i;
+
+	while (scanf("%u %u %u", &alturaPlaca, &larguraPlaca, &qtsPedidos) != EOF)
+	{
+
+		for (i = 0; i < qtsPedidos; i++)
+		{
+			scanf("%u %u", &alturaPci, &larguraPci);
+
+			if ((alturaPci <= alturaPlaca && larguraPci <= larguraPlaca) || (alturaPci <= larguraPlaca && larguraPci <= alturaPlaca))
+				printf("Sim\n");
+			else
+				printf("Nao\n");
+		}
+
+	}
+}
