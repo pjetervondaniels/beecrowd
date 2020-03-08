@@ -16,7 +16,7 @@ Quase todos eles em Java, mas você pode encontrar soluções em Python, C++ ou 
 
 ## Problemas de Competições de Programação
 
-  - Contest de Natal 2018
+  - Maratona de Natal 2018
   - Maratona de Programação da SBC 2008
 
 ## Sobre o Uri
