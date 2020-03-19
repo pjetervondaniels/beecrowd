@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://i.imgur.com/FNA27pn.png" width="250px" />
+</h1>
+
 ## Introdução
 
 Minhas soluções para problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
