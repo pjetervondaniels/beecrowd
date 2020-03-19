@@ -17,10 +17,11 @@ Quase todos eles em Java, mas você pode encontrar soluções em Python, C++ ou 
  - Geometria Computacional: Pontos e Linhas, Polígonos...
 
 ## Problemas de Competições de Programação
-
+    
   - Maratona de Natal 2018
   - Maratona de Programação da SBC 2008
   - Maratona Road to Fortaleza V 2014
+  - 1ª Maratona UberHub Code Club
   
 ## Sobre o Uri
 
