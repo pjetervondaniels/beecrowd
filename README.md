@@ -2,8 +2,6 @@
     <img src="https://i.imgur.com/FNA27pn.png" width="250px" />
 </h1>
 
-## Introdução
-
 Minhas soluções para problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
 Quase todos eles em Java, mas você pode encontrar soluções em Python, C++ ou C. Ei, confira meu perfil no URI Online Judge [aqui]. :)
 
