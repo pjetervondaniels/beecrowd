@@ -2,38 +2,40 @@
     <img src="https://i.imgur.com/FNA27pn.png" width="250px" />
 </h1>
 
-Minhas soluções para problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
-Quase todos eles em Java, mas você pode encontrar soluções em Python, C++ ou C. Ei, confira meu perfil no URI Online Judge [aqui]. :)
+My solutions to [URI Online Judge] problems. If possible, I will try to add more solutions in the future.
+Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey, check out my profile at URI Online Judge [here]. :)
 
-## Problemas por Categoria
+## Problems by Category
 
- - Iniciante : Problemas básicos para quem está iniciando na programação...
- - Ad-hoc : Problemas de Simulação, Datas e Ad-Hoc no geral...
- - Strings: Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
- - Estruturas e Bibliotecas: Filas, Pilhas, Ordenação, Mapas...
- - Matemática: Sistemas Numéricos, Número Primos, BigInteger...
- - Paradigmas: Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
- - Grafos: Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
- - Geometria Computacional: Pontos e Linhas, Polígonos...
+ - Beginner: Basic problems for those who are starting in programming ...
+ - Ad-hoc: Simulation Problems, Dates and Ad-Hoc in general ...
+ - Strings: Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation ...
+ - Structures and Libraries: Queues, Stacks, Sorting, Maps ...
+ - Mathematics: Number Systems, Prime Numbers, BigInteger ...
+ - Paradigms: Dynamic Programming, Binary Search, Sweet tooth, Backtracking ...
+ - Graphs: Flood Fill, MST, SSSP, DAG, Maximum Flow, Trees ...
+ - Computational Geometry: Points and Lines, Polygons ...
 
-## Problemas de Competições de Programação
-    
-  - Maratona de Natal 2018
-  - Maratona de Programação da SBC 2008
-  - Maratona Road to Fortaleza V 2014
-  - 1ª Maratona UberHub Code Club
-  
-## Sobre o Uri
+## Programming Competition Problems
 
-O URI Online Judge é um projeto que está sendo desenvolvido pelo Departamento de Ciência da Computação da Universidade URI. 
-O principal objetivo do projeto é fornecer práticas de programação e compartilhamento de conhecimento. 
-O URI Online Judge contém mais de 1.000 problemas divididos em 8 grandes categorias.
-Essa divisão ajuda os usuários a se concentrarem em tópicos de programação específicos. 
-Todos os problemas estão disponíveis em português e inglês. 
-O site URI Online Judge também realiza concursos públicos regularmente.
+- 
+- Christmas Marathon 2018
+- SBC Programming Marathon 2008
+- Marathon Road to Fortaleza V 2014
+- 1st UberHub Code Club Marathon
+- Marathon PUC Goiás #1
 
-O URI está disponível sob a licença [MIT].
+## About Uri
+
+URI Online Judge is a project that is being developed by the Department of Computer Science at URI University.
+The main objective of the project is to provide programming and knowledge sharing practices.
+The URI Online Judge contains more than 1,000 problems divided into 8 major categories.
+This division helps users to focus on specific programming topics.
+All problems are available in Portuguese and English.
+The URI Online Judge website also runs public tenders regularly.
+
+The URI is available under the [MIT] license.
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
-[aqui]: https://www.urionlinejudge.com.br/judge/pt/profile/383035
+[here]: https://www.urionlinejudge.com.br/judge/pt/profile/383035
 [MIT]: https://opensource.org/licenses/mit-license.php
