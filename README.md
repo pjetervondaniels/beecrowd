@@ -18,7 +18,6 @@ Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey
 
 ## Programming Competition Problems
 
-- 
 - Christmas Marathon 2018
 - SBC Programming Marathon 2008
 - Marathon Road to Fortaleza V 2014
