@@ -5,7 +5,7 @@
 My solutions to [URI Online Judge] problems. If possible, I will try to add more solutions in the future.
 Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey, check out my profile at URI Online Judge [here]. :)
 
-## Problems by Category
+## :memo: Problems by Category
 
  - Beginner: Basic problems for those who are starting in programming ...
  - Ad-hoc: Simulation Problems, Dates and Ad-Hoc in general ...
@@ -16,7 +16,7 @@ Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey
  - Graphs: Flood Fill, MST, SSSP, DAG, Maximum Flow, Trees ...
  - Computational Geometry: Points and Lines, Polygons ...
 
-## Programming Competition Problems
+## 💻 Programming Competitions Problems
 
 - Christmas Marathon 2018
 - SBC Programming Marathon 2008
@@ -24,7 +24,7 @@ Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey
 - 1st UberHub Code Club Marathon
 - Marathon PUC Goiás #1
 
-## About Uri
+## 🔖 About Uri
 
 URI Online Judge is a project that is being developed by the Department of Computer Science at URI University.
 The main objective of the project is to provide programming and knowledge sharing practices.
@@ -33,6 +33,16 @@ This division helps users to focus on specific programming topics.
 All problems are available in Portuguese and English.
 The URI Online Judge website also runs public tenders regularly.
 
+## 🤔 How to contribute
+
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
+
+After the merge of your pull request is done, you can delete your branch.
+
+## :memo: Licence
 The URI is available under the [MIT] license.
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
