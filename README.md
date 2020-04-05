@@ -24,15 +24,6 @@ Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey
 - 1st UberHub Code Club Marathon
 - Marathon PUC Goiás #1
 
-## 🔖 About Uri
-
-URI Online Judge is a project that is being developed by the Department of Computer Science at URI University.
-The main objective of the project is to provide programming and knowledge sharing practices.
-The URI Online Judge contains more than 1,000 problems divided into 8 major categories.
-This division helps users to focus on specific programming topics.
-All problems are available in Portuguese and English.
-The URI Online Judge website also runs public tenders regularly.
-
 ## 🤔 How to contribute
 
 - Fork this repository;
@@ -41,6 +32,15 @@ The URI Online Judge website also runs public tenders regularly.
 - Push to your branch: `git push origin my-feature`.
 
 After the merge of your pull request is done, you can delete your branch.
+
+## 🔖 About Uri
+
+URI Online Judge is a project that is being developed by the Department of Computer Science at URI University.
+The main objective of the project is to provide programming and knowledge sharing practices.
+The URI Online Judge contains more than 1,000 problems divided into 8 major categories.
+This division helps users to focus on specific programming topics.
+All problems are available in Portuguese and English.
+The URI Online Judge website also runs public tenders regularly.
 
 ## :memo: Licence
 The URI is available under the [MIT] license.
