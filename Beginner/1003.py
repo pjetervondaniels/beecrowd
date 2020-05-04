@@ -1,5 +1,4 @@
-int A, B, SOMA;
-A = sc.nextInt();
-B = sc.nextInt();
-SOMA = A + B;
-System.out.println("SOMA = " + SOMA);
+A = int(input())
+B = int(input())
+Sum = A+B
+print("Soma = {}".format(Sum))
