@@ -1,16 +1,15 @@
-n = int(input())
-while n > 0:
-    saida = ''
-    n -= 1
-    i = int(input())
-    if i == 0:
-        saida += 'NULL'
-    elif i % 2 == 0:
-        saida += 'EVEN '
-    elif i % 2 == 1:
-        saida += 'ODD '
-    if i > 0:
-        saida += 'POSITIVE'
-    if i < 0:
-        saida += 'NEGATIVE'
-    print(saida)
+
+numberCases = int(input())
+
+for i in range(0, numberCases, 1):
+    n = int(input())
+    if n < 0 and n % 2 == 0:
+        print("EVEN NEGATIVE")
+    elif n > 0 and n % 2 == 0:
+        print("EVEN POSITIVE")
+    elif n < 0 and n % 2 != 0:
+        print("ODD NEGATIVE")
+    elif n > 0 and n % 2 != 0:
+        print("ODD POSITIVE")
+    elif n == 0:
+        print("NULL")
