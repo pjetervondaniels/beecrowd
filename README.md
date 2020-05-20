@@ -2,49 +2,50 @@
     <img src="https://i.imgur.com/FNA27pn.png" width="250px" />
 </h1>
 
-My solutions to [URI Online Judge] problems. If possible, I will try to add more solutions in the future.
-Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey, check out my profile at URI Online Judge [here]. :)
+Minhas soluções para os problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
+Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou C. Ei, confira meu perfil no URI Online Judge [aqui]. :)
 
-## :memo: Problems by Category
+## :memo: Problemas por categoria
 
- - Beginner: Basic problems for those who are starting in programming ...
- - Ad-hoc: Simulation Problems, Dates and Ad-Hoc in general ...
- - Strings: Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation ...
- - Structures and Libraries: Queues, Stacks, Sorting, Maps ...
- - Mathematics: Number Systems, Prime Numbers, BigInteger ...
- - Paradigms: Dynamic Programming, Binary Search, Sweet tooth, Backtracking ...
- - Graphs: Flood Fill, MST, SSSP, DAG, Maximum Flow, Trees ...
- - Computational Geometry: Points and Lines, Polygons ...
+  - Iniciante: problemas básicos para quem está começando na programação ...
+  - Ad-hoc: problemas de simulação, datas e ad-hoc em geral ...
+  - Cordas: Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Cordas ...
+  - Estruturas e Bibliotecas: Filas, Pilhas, Classificação, Mapas ...
+  - Matemática: Sistemas Numéricos, Números Primos, BigInteger ...
+  - Paradigmas: Programação Dinâmica, Pesquisa Binária, Guloso, Retorno ...
+  - Gráficos: preenchimento de inundação, MST, SSSP, DAG, fluxo máximo, árvores ...
+  - Geometria Computacional: Pontos e Linhas, Polígonos ...
+  
+## 💻 Problemas de programação de competições
 
-## 💻 Programming Competitions Problems
+- Maratona de Natal 2018
+- Maratona de Programação da SBC 2008
+- Maratona para Fortaleza V 2014
+- 1ª Maratona do UberHub Code Club
+- Maratona PUC Goiás # 1
 
-- Christmas Marathon 2018
-- SBC Programming Marathon 2008
-- Marathon Road to Fortaleza V 2014
-- 1st UberHub Code Club Marathon
-- Marathon PUC Goiás #1
+## 🤔 Como contribuir
 
-## 🤔 How to contribute
+- Dê um fork este repositório;
+- Crie uma branch com o seu recurso: `git checkout -b my-feature`;
+- Confirme suas alterações: `git commit -m 'feat: My new feature'`;
+- Dê um Pus para o sua branch: `git push origin my-feature`.
 
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: My new feature'`;
-- Push to your branch: `git push origin my-feature`.
-
-After the merge of your pull request is done, you can delete your branch.
+Após o merge de sua pull request, você pode excluir sua branch.
 
 ## 🔖 About Uri
 
-URI Online Judge is a project that is being developed by the Department of Computer Science at URI University.
-The main objective of the project is to provide programming and knowledge sharing practices.
-The URI Online Judge contains more than 1,000 problems divided into 8 major categories.
-This division helps users to focus on specific programming topics.
-All problems are available in Portuguese and English.
-The URI Online Judge website also runs public tenders regularly.
+O URI Online Judge é um projeto que está sendo desenvolvido pelo Departamento de Ciência da Computação da Universidade URI.
+O principal objetivo do projeto é fornecer práticas de programação e compartilhamento de conhecimento.
+O juiz on-line da URI contém mais de 1.000 problemas divididos em 8 categorias principais.
+Essa divisão ajuda os usuários a se concentrarem em tópicos de programação específicos.
+Todos os problemas estão disponíveis em português e inglês.
+O site URI Online Judge também realiza concursos públicos regularmente.
 
-## :memo: Licence
-The URI is available under the [MIT] license.
+## :memo: Licença
+
+O URI está disponível sob a licença [MIT].
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
-[here]: https://www.urionlinejudge.com.br/judge/pt/profile/383035
+[aqui]: https://www.urionlinejudge.com.br/judge/pt/profile/383035
 [MIT]: https://opensource.org/licenses/mit-license.php
