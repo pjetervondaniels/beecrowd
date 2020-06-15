@@ -5,7 +5,7 @@
 Minhas soluções para os problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
 Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou C. Ei, confira meu perfil no URI Online Judge [aqui]. :)
 
-## :memo: Problemas por categoria
+## Problemas por categoria
 
 - Iniciante: problemas básicos para quem está começando na programação ...
 - Ad-hoc: problemas de simulação, datas e ad-hoc em geral ...
@@ -16,7 +16,7 @@ Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou
 - Gráficos: preenchimento de inundação, MST, SSSP, DAG, fluxo máximo, árvores ...
 - Geometria Computacional: Pontos e Linhas, Polígonos ...
   
-## 💻 Problemas de programação de competições
+## Problemas de programação de competições
 
 - Maratona de Natal 2018
 - Maratona de Programação da SBC 2008
@@ -24,7 +24,7 @@ Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou
 - 1ª Maratona do UberHub Code Club
 - Maratona PUC Goiás # 1
 
-## 🤔 Como contribuir
+## Como contribuir
 
 - Dê um fork este repositório;
 - Crie uma branch com o seu recurso: `git checkout -b my-feature`;
@@ -33,7 +33,7 @@ Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou
 
 Após o merge de sua pull request, você pode excluir sua branch.
 
-## 🔖 About Uri
+## About Uri
 
 O URI Online Judge é um projeto que está sendo desenvolvido pelo Departamento de Ciência da Computação da Universidade URI.
 O principal objetivo do projeto é fornecer práticas de programação e compartilhamento de conhecimento.
@@ -42,7 +42,7 @@ Essa divisão ajuda os usuários a se concentrarem em tópicos de programação 
 Todos os problemas estão disponíveis em português e inglês.
 O site URI Online Judge também realiza concursos públicos regularmente.
 
-## :memo: Licença
+## Licença
 
 O URI está disponível sob a licença [MIT].
 
