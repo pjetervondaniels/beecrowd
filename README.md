@@ -33,7 +33,7 @@ Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou
 
 Após o merge de sua pull request, você pode excluir sua branch.
 
-## About Uri
+## Sobre o Uri
 
 O URI Online Judge é um projeto que está sendo desenvolvido pelo Departamento de Ciência da Computação da Universidade URI.
 O principal objetivo do projeto é fornecer práticas de programação e compartilhamento de conhecimento.
