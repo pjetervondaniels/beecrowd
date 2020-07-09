@@ -2,6 +2,17 @@
     <img src="https://i.imgur.com/FNA27pn.png" width="250px" />
 </h1>
 
+<p>
+  <img alt="Issues" src="https://img.shields.io/github/issues/pedrodanieljardim/uri"> 
+  <a href="https://github.com/pedrodanieljardim/uri">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrodanieljardim/uri">
+  </a>
+    <a href="https://github.com/pedrodanieljardim/uri">
+    <img alt="Forks" src="https://img.shields.io/github/forks/pedrodanieljardim/uri">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 Minhas soluções para os problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
 Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou C. Ei, confira meu perfil no URI Online Judge [aqui]. :)
 
