@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/FNA27pn.png" width="250px" />
 </h1>
 
-<p>
+<p align="center">
   <img alt="Issues" src="https://img.shields.io/github/issues/pedrodanieljardim/uri"> 
   <a href="https://github.com/pedrodanieljardim/uri">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrodanieljardim/uri">
