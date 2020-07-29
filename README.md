@@ -13,50 +13,42 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-Minhas soluções para os problemas do [URI Online Judge]. Se possível, tentarei adicionar mais soluções no futuro.
-Quase todos eles em Java, mas você pode encontrar soluções em Python, C ++ ou C. Ei, confira meu perfil no URI Online Judge [aqui]. :)
+My solutions to [URI Online Judge] problems. If possible, I will try to add more solutions in the future.
+Almost all of them in Java, but you can find solutions in Python, C ++ or C. Hey, check out my profile at URI Online Judge [here]. :)
 
-## Problemas por categoria
+## Problems by category
 
-- Iniciante: problemas básicos para quem está começando na programação ...
-- Ad-hoc: problemas de simulação, datas e ad-hoc em geral ...
-- Cordas: Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Cordas ...
-- Estruturas e Bibliotecas: Filas, Pilhas, Classificação, Mapas ...
-- Matemática: Sistemas Numéricos, Números Primos, BigInteger ...
-- Paradigmas: Programação Dinâmica, Pesquisa Binária, Guloso, Retorno ...
-- Gráficos: preenchimento de inundação, MST, SSSP, DAG, fluxo máximo, árvores ...
-- Geometria Computacional: Pontos e Linhas, Polígonos ...
-  
-## Problemas de programação de competições
+- Beginner: basic problems for those who are starting in programming ...
+- Ad-hoc: simulation problems, dates and ad-hoc in general ...
+- Strings: Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation ...
+- Structures and Libraries: Queues, Stacks, Classification, Maps ...
+- Mathematics: Number Systems, Prime Numbers, BigInteger ...
+- Paradigms: Dynamic Programming, Binary Search, Sweet tooth, Return ...
+- Graphics: flood fill, MST, SSSP, DAG, maximum flow, trees ...
+- Computational Geometry: Points and Lines, Polygons ...
 
-- Maratona de Natal 2018
-- Maratona de Programação da SBC 2008
-- Maratona para Fortaleza V 2014
-- 1ª Maratona do UberHub Code Club
-- Maratona PUC Goiás # 1
+## How to contribute
 
-## Como contribuir
+- Fork this repository;
+- Create a branch with your resource: `git checkout -b my-feature`;
+- Confirm your changes: `git commit -m 'feat: My new feature'`;
+- Push your branch: `git push origin my-feature`.
 
-- Dê um fork este repositório;
-- Crie uma branch com o seu recurso: `git checkout -b my-feature`;
-- Confirme suas alterações: `git commit -m 'feat: My new feature'`;
-- Dê um Pus para o sua branch: `git push origin my-feature`.
+After the merge of your pull request, you can delete your branch.
 
-Após o merge de sua pull request, você pode excluir sua branch.
+## About Uri
 
-## Sobre o Uri
+URI Online Judge is a project that is being developed by the Department of Computer Science at URI University.
+The main objective of the project is to provide programming and knowledge sharing practices.
+The URI online judge contains more than 1,000 problems divided into 8 main categories.
+This division helps users to focus on specific programming topics.
+All problems are available in Portuguese and English.
+The URI Online Judge website also runs public tenders regularly.
 
-O URI Online Judge é um projeto que está sendo desenvolvido pelo Departamento de Ciência da Computação da Universidade URI.
-O principal objetivo do projeto é fornecer práticas de programação e compartilhamento de conhecimento.
-O juiz on-line da URI contém mais de 1.000 problemas divididos em 8 categorias principais.
-Essa divisão ajuda os usuários a se concentrarem em tópicos de programação específicos.
-Todos os problemas estão disponíveis em português e inglês.
-O site URI Online Judge também realiza concursos públicos regularmente.
+## License
 
-## Licença
-
-O URI está disponível sob a licença [MIT].
+this repository is available under the [MIT] license.
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
-[aqui]: https://www.urionlinejudge.com.br/judge/pt/profile/383035
+[here]: https://www.urionlinejudge.com.br/judge/pt/profile/383035
 [MIT]: https://opensource.org/licenses/mit-license.php
