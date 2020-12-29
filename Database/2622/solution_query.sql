@@ -1,0 +1,1 @@
+SELECT name FROM customers c WHERE (c.id LIKE (SELECT id_customers FROM legal_person WHERE id_customers LIKE c.id))

@@ -1,0 +1,1 @@
+CREATE TABLE customers(id int primary key, name varchar(30), street varchar(30), city varchar(30), state varchar(2), credit_limit numeric)
