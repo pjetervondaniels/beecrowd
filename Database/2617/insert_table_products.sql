@@ -1,0 +1,5 @@
+INSERT INTO dbo.products(id, name, amount, price, id_providers)VALUES(1, 'Blue Chair', 30 ,300.00,5)
+INSERT INTO dbo.products(id, name, amount, price, id_providers)VALUES(2, 'Red Chair', 50 ,2150.00,1)
+INSERT INTO dbo.products(id, name, amount, price, id_providers)VALUES(3, 'Disney Wardrobe', 400 ,829.50,4)
+INSERT INTO dbo.products(id, name, amount, price, id_providers)VALUES(4, 'Blue Toaster', 20 ,9.90,3)
+INSERT INTO dbo.products(id, name, amount, price, id_providers)VALUES(5, 'Solar Panel', 30 ,3000.25,4)
