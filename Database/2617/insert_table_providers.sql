@@ -1,5 +1,0 @@
-INSERT INTO dbo.providers(id, name, street, city, state)VALUES(1, 'Ajax SA','Presidente Castelo Branco','Porto Alegre','RS')
-INSERT INTO dbo.providers(id, name, street, city, state)VALUES(2,'Sansul SA','Av Brasil', 'Rio de Janeiro','RJ')
-INSERT INTO dbo.providers(id, name, street, city, state)VALUES(3,'South Chairs','Av Moinho','Santa Maria','RS')
-INSERT INTO dbo.providers(id, name, street, city, state)VALUES(4,'Elon Electro','Apolo','São Paulo','SP')
-INSERT INTO dbo.providers(id, name, street, city, state)VALUES(5, 'Mike Electro', 'Pedro da Cunha','Curitiba', 'PR')

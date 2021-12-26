@@ -1,4 +1,4 @@
-SELECT providers.name, products.name
-FROM providers
-INNER JOIN products ON products.id_providers = providers.id
-WHERE providers.name LIKE 'Ajax SA';
+SELECT prd.name, pvd.name
+FROM providers pvd
+LEFT JOIN products prd ON prd.id_providers = pvd.id
+WHERE pvd.name LIKE '%Ajax SA%'
